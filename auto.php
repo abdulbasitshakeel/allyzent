@@ -1,26 +1,62 @@
 <?php include("inc/header.php"); ?>
+<style>
+.autonewsection{
+    padding-top: 9rem;    
+}
+.autoherosection {
+    text-align: left !important;
+}
+.autoherosection h1 {
+    font-size: 76px;
+}
+.autoherosection p {
+    font-size: 22px;
+}
+.hero-work-divider{
+    margin: 1rem auto;
+}
+.showimagenew {
+    padding-top: 22px;
+    padding-left: 40px;
+}
+.showimagenew img {
+    width: 100%;
+    border-radius: 50px;
+    box-shadow: inset 0 0 15px rgba(255, 255, 255, 0.5), 0 6px 20px rgba(0, 0, 0, 0.4);
+    height: 480px;
+    object-fit: cover;
+    object-position: center;
+}
+</style>
 <div class="content">
-    <section class="hero-work">
+    <section class="hero-work autonewsection">
         <div class="container">
-            <div class="hero-work-content">
-                <h1 class="hero-work-heading">AI that converts leads
-                    and makes you money.</h1>
-                <p class="hero-work-description">
-                    AI that books test drives, service appointments, sends promotions, and makes sales—24/7, 
-                    with full context on your business.
-                </p>
-                <div class="hero-work-divider"></div>
-                    <a href="/" class="hero-work-btn">
-                        <span class="text">Get a demo</span>
-                        <svg class="hero-work-btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    
-                        <span class="line top"></span>
-                        <span class="line right"></span>
-                        <span class="line bottom"></span>
-                        <span class="line left"></span>
-                    </a>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="hero-work-content autoherosection">
+                        <h1 class="hero-work-heading">AI that converts leads and makes you money.</h1>
+                        <p class="hero-work-description">
+                            AI that books test drives, service appointments, sends promotions, and makes sales—24/7, 
+                            with full context on your business.
+                        </p>
+                        <div class="hero-work-divider"></div>
+                        <a href="/" class="hero-work-btn">
+                            <span class="text">Get a demo</span>
+                            <svg class="hero-work-btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        
+                            <span class="line top"></span>
+                            <span class="line right"></span>
+                            <span class="line bottom"></span>
+                            <span class="line left"></span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="showimagenew">
+                        <img src="assets/images/cars.jpg">
+                    </div>
                 </div>
             </div>
         </div>
@@ -109,7 +145,7 @@
             </div>
         </div>
     </section>
-    <section class="testimonial-slider">
+    <section class="testimonial-slider" style="padding-bottom: 130px;">
         <div class="container">
             <div class="maindatahere text-center">
                 <h5>Podium's AI Solution</h5>
@@ -136,38 +172,6 @@
                 </div>
             </div>
         </div>            
-    </section>
-    <section class="ceo-section">
-        <div class="container">
-            <div class="ceo-work">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="ceo-card">
-                            <div class="ceo-content">
-                                <div class="quote-icon mb-4">
-                                    <svg width="40" height="32" viewBox="0 0 40 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M16 0H0V16L4 20C8 24 10 28 8 32H16C18 24 16 20 12 16L16 12V0Z" fill="#02723f"/>
-                                        <path d="M40 0H24V16L28 20C32 24 34 28 32 32H40C42 24 40 20 36 16L40 12V0Z" fill="#02723f"/>
-                                    </svg>
-                                </div>
-                                <p class="ceo-quote">
-                                    AI is here to stay and it's only going to get more powerful. Our vision is to keep you at the forefront of this innovation, equipping you with tools that transform possibilities into realities.
-                                </p>
-                                <div class="ceo-signature-container mt-4">
-                                    <div class="ceo-signature">Eric Rea</div>
-                                    <div class="ceo-title">Co-Founder & CEO</div>
-                                </div>
-                            </div>
-                            <div class="ceo-image-container">
-                                <img src="assets/images/ceo.jpg" alt="Eric Rea, Co-Founder & CEO" class="ceo-image rounded-lg">
-                            </div>
-                        </div>
-                    </div>
-                    <!-- <div class="col-lg-6">
-                    </div> -->
-                </div>
-            </div>
-        </div>
     </section>
 </div>
 <?php include("inc/footer.php"); ?>
