@@ -26,10 +26,10 @@
                 <div class="nav-links">
                     <a href="<?= $BaseUrl; ?>" class="nav-link active">Home</a>
                     <a href="<?= $BaseUrl; ?>auto.php" class="nav-link">Auto</a>
-                    <a href="#" class="nav-link">Aesthetics & Wellness</a>
-                    <a href="#" class="nav-link">Home Services</a>
-                    <a href="#" class="nav-link">Retail</a>
-                    <a href="#" class="nav-link">law Firam</a>
+                    <a href="<?= $BaseUrl; ?>aesthetics.php" class="nav-link">Aesthetics and Dental</a>
+                    <a href="<?= $BaseUrl; ?>homeservices.php" class="nav-link">Services</a>
+                    <a href="<?= $BaseUrl; ?>retail.php" class="nav-link">Retail</a>
+                    <a href="<?= $BaseUrl; ?>lawfiram.php" class="nav-link">law Firam</a>
                 </div>
                 <div class="nav-right">
                     <div class="phone-number">
