@@ -76,6 +76,9 @@ body {
     color: var(--primary);
     letter-spacing: -0.5px;
 }
+.logo img {
+  width: 117px;
+}
 
 /* Navigation Links */
 .nav-links {

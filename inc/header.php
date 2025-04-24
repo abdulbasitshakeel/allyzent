@@ -19,8 +19,9 @@
         <nav class="navbar">
             <div class="container-fluid">
                 <div class="logo">
-                    <span>Podium</span>
-                    <div class="logo-highlight"></div>
+                    <img src="assets/images/logo.png">
+                    <!-- <span>Podium</span>
+                    <div class="logo-highlight"></div> -->
                 </div>
                 <div class="nav-links">
                     <a href="<?= $BaseUrl; ?>" class="nav-link active">Home</a>
