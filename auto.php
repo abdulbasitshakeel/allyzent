@@ -7,17 +7,17 @@
     text-align: left !important;
 }
 .autoherosection h1 {
-    font-size: 76px;
+    font-size: 74px;
 }
 .autoherosection p {
     font-size: 22px;
 }
-.hero-work-divider{
-    margin: 1rem auto;
-}
 .showimagenew {
     padding-top: 22px;
     padding-left: 40px;
+}
+.hero-work-divider{
+    margin: 20px 0 36px 0;
 }
 .showimagenew img {
     width: 100%;
