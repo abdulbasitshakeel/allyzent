@@ -3,23 +3,17 @@
     <section class="hero-work">
         <div class="container">
             <div class="hero-work-content">
-                <h1 class="hero-work-heading">AI that converts leads
-                    and makes you money.</h1>
+                <h1 class="hero-work-heading">AI that Drives Growth and Boosts Revenue</h1>
                 <p class="hero-work-description">
-                    AI that books test drives, service appointments, sends promotions, and makes sales—24/7, 
-                    with full context on your business.
+                Ai that organizes test drives, service bookings, sends promotions, and increases sales around the clock, fully synced with your business.
                 </p>
                 <div class="hero-work-divider"></div>
-                    <a href="/" class="hero-work-btn">
-                        <span class="text">Get a demo</span>
+                    <a href="#" class="hero-work-btn">
+                        Watch a demo
+                        <!-- <i class="bi bi-arrow-right"></i> -->
                         <svg class="hero-work-btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
-                    
-                        <span class="line top"></span>
-                        <span class="line right"></span>
-                        <span class="line bottom"></span>
-                        <span class="line left"></span>
                     </a>
                 </div>
             </div>
@@ -46,33 +40,33 @@
     <section class="services-section">
         <div class="container">
             <div class="maindatahere">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">What Podium AI can do for you</h2>
-                <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p>
+                <h5>Allyzent's AI Solution</h5>
+                <h2 class="section-title">What Allyzent AI can do for you</h2>
+                <p class="section-subtitle">Allyzent's AI is designed to engage more leads, schedule more appointments, and follow up effortlessly for your business.</p>
             </div>
 
             <div class="services-grid">
                 <div class="service-card">
                     <div class="icon">🛠️</div>
-                    <h3>Capture every lead.</h3>
-                    <p>Never miss a lead again—see every call, text, website chat, review, and third-party app message—all from a consolidated inbox.</p>
+                    <h3>Capture every opportunity</h3>
+                    <p>Never miss a lead—track every call, text, chat, review, and app message—all from a unified inbox. Stay on top of all communications and respond instantly</p>
                 </div>
                 <div class="service-card">
                     <div class="icon">🎨</div>
-                    <h3>Convert more leads.</h3>
-                    <p>Podium AI responds to leads in 1 minute to boost your chance of a sale by >45%. Help your customers immediately, accurately, and 24/7.</p>
+                    <h3>Increase lead conversion</h3>
+                    <p>Our AI responds within 1 minute, boosting sales potential by over 45%. Provide instant, precise, and efficient support 24/7.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
                     <div class="icon">⚙️</div>
-                    <h3>Drive repeat business.</h3>
-                    <p>Let AI put in the work to drive repeat sales. Our AI Employee proactively follows up with customers at the right time to guide them to a sale.</p>
+                    <h3>Encourage repeat business</h3>
+                    <p>Let AI handle the effort to drive ongoing sales. Our AI Employee proactively engages customers at the perfect moment to lead them toward a purchase.</p>
                 </div>
                 <div class="service-card">
                     <div class="icon">🚀</div>
-                    <h3>Get found. Get chosen.</h3>
-                    <p>More reviews = more business. Our AI requests reviews after each sale and responds to customers on review sites, helping you rank high on Google.</p>
+                    <h3>Get noticed. Get picked</h3>
+                    <p>More reviews = more revenue. Our AI asks for reviews after every sale and responds to customers on review sites, helping improve your Google ranking.</p>
                 </div>
             </div>
         </div>
@@ -80,30 +74,30 @@
     <section class="timeline-section">
         <div class="container">
             <div class="maindatahere  text-center">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">Expand your team exponentially with Podium's AI Employee</h2>
+                <h5>Allyzent's AI Solution</h5>
+                <h2 class="section-title">Increase your team’s capacity with Allyzent’s AI-driven workforce.</h2>
                 <!-- <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p> -->
             </div>
             <div class="timeline">
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Boosts your sales</h3>
-                        <p>Focused on customer satisfaction and driving sales, our AI Employee increases your bottom line by up to 30%.</p>
+                        <h3>Increse your revenue</h3>
+                        <p> With a focus on client satisfaction and sales growth, our AI Assistant can elevate your profits by as much as 30%.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Knows your industry</h3>
-                        <p>Pre-trained on 10+ years of industry expertise, our AI Employee boosts customer engagement rates by 24%.</p>
+                        <h3>Built your industry</h3>
+                        <p>Trained on 10+ years of domain insight, our AI Assistant smartly lifts customer engagement rates by 24% every time.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Sets up quickly</h3>
-                        <p>Customized to your policies and services, our AI Employee is easy to set up, tailored to your needs by our experts and your guidance.</p>
+                        <h3>Launches fast</h3>
+                        <p>Aligned with your workflows and offerings, our AI Assistant is simple to deploy, personalized by our team with your input.</p>
                     </div>
                 </div>
             </div>
@@ -112,27 +106,27 @@
     <section class="testimonial-slider">
         <div class="container">
             <div class="maindatahere text-center">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">Over 100,000 businesses<br> trust Podium.</h2>
+                <h5>Allyzent's AI Solution</h5>
+                <h2 class="section-title">More than 100,000 companies <br> rely on Allyzent.</h2>
             </div>
             <div class="slider-track" style="padding-top: 30px;">
                 <div class="testimonial-card">
-                    <p>“[Our AI Employee] is excellent. We were going to hire a customer service rep, but now we don't have to.”</p>
-                    <span>- Gannon Kennedy, Epione</span>
+                    <p>The AI Assistant has been incredible. We planned to bring on a support rep, but it’s no longer necessary.</p>
+                    <span>Gannon Kennedy, Epione</span>
                 </div>
                 <div class="testimonial-card">
-                    <p>“Podium AI has 2x’d our lead response and lead closing rates.”</p>
-                    <span>- Ben Johnson, Stuart Powell Ford Mazda</span>
+                    <p>Allyzent AI has doubled how fast we respond to leads and how many we close.</p>
+                    <span>Ben Johnson, Stuart Powell Ford Mazda</span>
                 </div>
             </div>
             <div class="slider-track" style="margin-top: 30px;">
                 <div class="testimonial-card">
-                    <p><strong>72%</strong> — “Podium’s AI has cut response time from 5 mins to 2 mins.”</p>
-                    <span>- Auto Companies using Podium</span>
+                    <p><strong>72%</strong> — Allyzent’s AI reduced our reply time from 5 minutes to just 2.</p>
+                    <span>Auto Companies using Podium</span>
                 </div>
                 <div class="testimonial-card">
-                    <p>“The AI Employee can start/end the chat and book into ServiceTitan. It's doing almost all the work.”</p>
-                    <span>- Reed Borton, Premier Heating and Air</span>
+                    <p>The AI Assistant handles conversations from start to finish and schedules directly in ServiceTitan. It’s managing nearly everything.</p>
+                    <span>Reed Borton, Premier Heating and Air</span>
                 </div>
             </div>
         </div>            
@@ -151,10 +145,10 @@
                                     </svg>
                                 </div>
                                 <p class="ceo-quote">
-                                    AI is here to stay and it's only going to get more powerful. Our vision is to keep you at the forefront of this innovation, equipping you with tools that transform possibilities into realities.
+                                AI is the future, and its power will only continue to grow. Our goal is to keep you ahead of the curve, providing tools that turn vision into success.
                                 </p>
                                 <div class="ceo-signature-container mt-4">
-                                    <div class="ceo-signature">Eric Rea</div>
+                                    <div class="ceo-signature">James</div>
                                     <div class="ceo-title">Co-Founder & CEO</div>
                                 </div>
                             </div>
