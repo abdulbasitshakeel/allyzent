@@ -34,14 +34,13 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="hero-work-content autoherosection">
-                        <h1 class="hero-work-heading">AI that converts leads and makes you money.</h1>
+                        <h1 class="hero-work-heading">AI-powered Sales for Dealerships</h1>
                         <p class="hero-work-description">
-                            AI that books test drives, service appointments, sends promotions, and makes sales—24/7, 
-                            with full context on your business.
+                        AI that handles test drive scheduling, service appointments, sends offers, and drives sales—around the clock, with complete business context.
                         </p>
                         <div class="hero-work-divider"></div>
                         <a href="/" class="hero-work-btn">
-                            <span class="text">Get a demo</span>
+                            <span class="text">Watch a demo</span>
                             <svg class="hero-work-btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
                             </svg>
@@ -82,33 +81,33 @@
     <section class="services-section">
         <div class="container">
             <div class="maindatahere">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">What Podium AI can do for you</h2>
-                <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p>
+                <h5>Allyzent's AI Solution</h5>
+                <h2 class="section-title">Boost Business Performance with Allyzent AI</h2>
+                <p class="section-subtitle">Allyzent's AI is designed to engage more leads, schedule more appointments, and follow up for your business with minimal supervision.</p>
             </div>
 
             <div class="services-grid">
                 <div class="service-card">
                     <div class="icon">🛠️</div>
-                    <h3>Capture every lead.</h3>
-                    <p>Never miss a lead again—see every call, text, website chat, review, and third-party app message—all from a consolidated inbox.</p>
+                    <h3>Seize every Opportunity</h3>
+                    <p>Never lose a lead again—track every call, text, website chat, review, and third-party app message—all in one unified inbox.</p>
                 </div>
                 <div class="service-card">
                     <div class="icon">🎨</div>
-                    <h3>Convert more leads.</h3>
-                    <p>Podium AI responds to leads in 1 minute to boost your chance of a sale by >45%. Help your customers immediately, accurately, and 24/7.</p>
+                    <h3>Speed wins Deals</h3>
+                    <p>With Allyzent AI, your business replies to new leads in 60 seconds or less—helping you convert faster and more effectively, 24/7.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
                     <div class="icon">⚙️</div>
-                    <h3>Drive repeat business.</h3>
-                    <p>Let AI put in the work to drive repeat sales. Our AI Employee proactively follows up with customers at the right time to guide them to a sale.</p>
+                    <h3>Grow customer Loyalty</h3>
+                    <p>Allyzent AI keeps your brand top of mind, reaching out at just the right moment to bring customers back to buy again.</p>
                 </div>
                 <div class="service-card">
                     <div class="icon">🚀</div>
-                    <h3>Get found. Get chosen.</h3>
-                    <p>More reviews = more business. Our AI requests reviews after each sale and responds to customers on review sites, helping you rank high on Google.</p>
+                    <h3>Be seen. Be preferred</h3>
+                    <p>Our AI gets more reviews for your business and manages your responses—helping you climb search results and win more customers.</p>
                 </div>
             </div>
         </div>

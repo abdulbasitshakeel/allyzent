@@ -27,7 +27,7 @@
                     <a href="<?= $BaseUrl; ?>" class="nav-link active">Home</a>
                     <a href="<?= $BaseUrl; ?>auto.php" class="nav-link">Auto</a>
                     <a href="#" class="nav-link">Aesthetics & Wellness</a>
-                    <a href="#" class="nav-link">Services</a>
+                    <a href="#" class="nav-link">Home Services</a>
                     <a href="#" class="nav-link">Retail</a>
                     <a href="#" class="nav-link">law Firam</a>
                 </div>

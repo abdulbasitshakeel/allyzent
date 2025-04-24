@@ -148,8 +148,8 @@
                                 AI is the future, and its power will only continue to grow. Our goal is to keep you ahead of the curve, providing tools that turn vision into success.
                                 </p>
                                 <div class="ceo-signature-container mt-4">
-                                    <div class="ceo-signature">James</div>
-                                    <div class="ceo-title">Co-Founder & CEO</div>
+                                    <div class="ceo-signature">Shahbaz Sohail, MD, MBA</div>
+                                    <div class="ceo-title">Founder & CEO, Allyzent</div>
                                 </div>
                             </div>
                             <div class="ceo-image-container">
