@@ -1,3 +1,6 @@
+<?php
+    $BaseUrl = 'http://localhost/websites/allyzent/';
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,8 +23,8 @@
                     <div class="logo-highlight"></div>
                 </div>
                 <div class="nav-links">
-                    <a href="#" class="nav-link active">Home</a>
-                    <a href="#" class="nav-link">Auto</a>
+                    <a href="<?= $BaseUrl; ?>" class="nav-link active">Home</a>
+                    <a href="<?= $BaseUrl; ?>auto.php" class="nav-link">Auto</a>
                     <a href="#" class="nav-link">Aesthetics & Wellness</a>
                     <a href="#" class="nav-link">Services</a>
                     <a href="#" class="nav-link">Retail</a>
@@ -48,7 +51,7 @@
         <!-- Mobile Menu -->
         <div class="mobile-menu clearfix" id="mobileMenu">
             <div class="mobile-menu-content">
-                <a href="#" class="mobile-link">Home</a>
+                <a href="" class="mobile-link">Home</a>
                 <a href="#" class="mobile-link">Aesthetics & Wellness</a>
                 <a href="#" class="mobile-link">Home Services</a>
                 <a href="#" class="mobile-link">Retail</a>
