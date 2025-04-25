@@ -47,24 +47,32 @@
 
             <div class="services-grid">
                 <div class="service-card">
-                    <div class="icon">🛠️</div>
+                    <div class="icon">
+                        <img src="assets/images/dataget.gif" />
+                    </div>
                     <h3>Capture every opportunity</h3>
                     <p>Never miss a lead—track every call, text, chat, review, and app message—all from a unified inbox. Stay on top of all communications and respond instantly</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🎨</div>
+                    <div class="icon">                        
+                        <img src="assets/images/leads.gif" />
+                    </div>
                     <h3>Increase lead conversion</h3>
                     <p>Our AI responds within 1 minute, boosting sales potential by over 45%. Provide instant, precise, and efficient support 24/7.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
-                    <div class="icon">⚙️</div>
+                    <div class="icon">
+                        <img src="assets/images/social.gif" style="padding:46px 0;width: 170px;" />
+                    </div>
                     <h3>Encourage repeat business</h3>
                     <p>Let AI handle the effort to drive ongoing sales. Our AI Employee proactively engages customers at the perfect moment to lead them toward a purchase.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🚀</div>
+                    <div class="icon">
+                        <img src="assets/images/dataaa.gif" style="width: 200px;"/>
+                    </div>
                     <h3>Get noticed. Get picked</h3>
                     <p>More reviews = more revenue. Our AI asks for reviews after every sale and responds to customers on review sites, helping improve your Google ranking.</p>
                 </div>

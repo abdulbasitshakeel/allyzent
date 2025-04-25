@@ -81,24 +81,32 @@ video.img-fluid {
 
             <div class="services-grid">
                 <div class="service-card">
-                    <div class="icon">🛠️</div>
+                    <div class="icon">
+                        <img src="assets/images/dataget.gif" />
+                    </div>
                     <h3>Capture Every Lead.</h3>
                     <p>Ensure no lead is lost—view every call, text, chat, review, and third-party message, all in one place with a unified inbox.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🎨</div>
+                    <div class="icon">                        
+                        <img src="assets/images/leads.gif" />
+                    </div>
                     <h3>Convert More Leads.</h3>
                     <p>Allyzent’s AI responds within a minute, increasing your chance of conversion by over 45%. Provide instant, accurate assistance 24/7 to your potential clients.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
-                    <div class="icon">⚙️</div>
+                    <div class="icon">
+                        <img src="assets/images/social.gif" style="padding:46px 0;width: 170px;" />
+                    </div>
                     <h3>Drive Repeat Business.</h3>
                     <p>Let AI take the reins in nurturing repeat customers. Allyzent’s AI proactively follows up with clients at the ideal time, guiding them towards making another purchase.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🚀</div>
+                    <div class="icon">
+                        <img src="assets/images/dataaa.gif" style="width: 200px;"/>
+                    </div>
                     <h3>Get Noticed. Get Selected.</h3>
                     <p>More reviews lead to more customers. Allyzent’s AI sends review requests after every sale and engages with customers on review platforms, boosting your visibility on Google.</p>
                 </div>

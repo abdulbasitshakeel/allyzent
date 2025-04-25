@@ -86,24 +86,32 @@
 
             <div class="services-grid">
                 <div class="service-card">
-                    <div class="icon">🛠️</div>
+                    <div class="icon">
+                        <img src="assets/images/dataget.gif" />
+                    </div>
                     <h3>Capture every lead.</h3>
                     <p>Never miss a lead again. Effortlessly combine every call, text, chat, email, and third-party app message into one unified inbox.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🎨</div>
+                    <div class="icon">                        
+                        <img src="assets/images/leads.gif" />
+                    </div>
                     <h3>Convert more leads.</h3>
                     <p>Shoppers don’t wait. Responding in under a minute increases your chance of a sale by over 45%. With the AI Sales Consultant, get instant, precise responses—24/7.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
-                    <div class="icon">⚙️</div>
+                    <div class="icon">
+                        <img src="assets/images/social.gif" style="padding:46px 0;width: 170px;" />
+                    </div>
                     <h3>Drive repeat business.</h3>
                     <p>Your best customers are the ones you’ve already served. The AI Sales Consultant automatically follows up with past clients on new offers, boosting repeat business and driving more revenue.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🚀</div>
+                    <div class="icon">
+                        <img src="assets/images/dataaa.gif" style="width: 200px;"/>
+                    </div>
                     <h3>Get found. Get chosen.</h3>
                     <p>More reviews lead to more sales. Our AI automatically requests feedback after each transaction and engages with customers on review platforms, helping you climb the Google rankings and attract more business.</p>
                 </div>

@@ -89,24 +89,32 @@
 
             <div class="services-grid">
                 <div class="service-card">
-                    <div class="icon">📞</div>
+                    <div class="icon">
+                        <img src="assets/images/dataget.gif" />
+                    </div>
                     <h3>Never miss a client inquiry.</h3>
                     <p>Capture every client lead—calls, emails, chats, and reviews—all organized in one place for your convenience.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">⏱️</div>
+                    <div class="icon">                        
+                        <img src="assets/images/leads.gif" />
+                    </div>
                     <h3>Respond instantly.</h3>
                     <p>Allyzent AI engages with clients immediately, ensuring timely responses to inquiries and improving your chances of winning more cases by over 45%.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
-                    <div class="icon">🔄</div>
+                    <div class="icon">
+                        <img src="assets/images/social.gif" style="padding:46px 0;width: 170px;" />
+                    </div>
                     <h3>Enhance client retention.</h3>
                     <p>Let AI handle follow-ups and re-engage past clients, ensuring no opportunity for repeat business is missed.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🌟</div>
+                    <div class="icon">
+                        <img src="assets/images/dataaa.gif" style="width: 200px;"/>
+                    </div>
                     <h3>Boost your reputation.</h3>
                     <p>Generate more positive reviews with AI-driven requests after each case, helping your law firm stand out and rank higher on search engines.</p>
                 </div>

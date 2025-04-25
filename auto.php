@@ -88,24 +88,32 @@
 
             <div class="services-grid">
                 <div class="service-card">
-                    <div class="icon">🛠️</div>
+                    <div class="icon">
+                        <img src="assets/images/dataget.gif" />
+                    </div>
                     <h3>AI-Powered Lead Response</h3>
                     <p>Never miss a lead again. Our AI responds to inquiries instantly, 24/7 — even while your team is offline — ensuring no potential buyer is left waiting.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🎨</div>
+                    <div class="icon">                        
+                        <img src="assets/images/leads.gif" />
+                    </div>
                     <h3>Automated Follow-Ups</h3>
                     <p>Convert more leads with intelligent, personalized follow-ups. Our system nurtures prospects automatically, so your team can focus on closing, not chasing.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
-                    <div class="icon">⚙️</div>
+                    <div class="icon">
+                        <img src="assets/images/social.gif" style="padding:46px 0;width: 170px;" />
+                    </div>
                     <h3>Smart Appointment Scheduling</h3>
                     <p>Book test drives and consultations automatically. Our AI understands buyer intent and schedules appointments in real-time, boosting show-up rates.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🚀</div>
+                    <div class="icon">
+                        <img src="assets/images/dataaa.gif" style="width: 200px;"/>
+                    </div>
                     <h3>Insights & Performance Tracking</h3>
                     <p>Get real-time analytics on every conversation, lead, and sale. Make smarter decisions with clear, actionable insights all from one simple dashboard.</p>
                 </div>
