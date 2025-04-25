@@ -124,7 +124,7 @@ body {
 /* Navigation Links */
 .nav-links {
   display: flex;
-  gap: 16px;
+  gap: 40px;
 }
 
 .nav-link {
