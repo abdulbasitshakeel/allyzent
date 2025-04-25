@@ -45,11 +45,8 @@ video.img-fluid {
                             <source src="assets/images/car.mp4" type="video/mp4">
                         </video>
                         <div class="image-overlay-text">
-                            <h2>AI that schedules your next appointment.</h2>
-                            <p>
-                                An AI Patient Coordinator that books services and responds to clients 24/7—
-                                providing exceptional customer service.
-                            </p>
+                            <h2>AI That Books Your Next Appointment Instantly</h2>
+                            <p>Meet your AI Patient Coordinator: Working 24/7 to schedule appointments, answer queries, and provide exceptional customer service—all while boosting your sales.</p>
                         </div>
                     </div>
                 </div>
@@ -77,33 +74,33 @@ video.img-fluid {
     <section class="services-section">
         <div class="container">
             <div class="maindatahere">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">What Podium AI can do for you</h2>
-                <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p>
+                <h5>Allyzent's AI Solution</h5>
+                <h2 class="section-title">How Allyzent's AI Can Benefit Your Business</h2>
+                <p class="section-subtitle">Allyzent’s AI Patient Coordinator manages appointments and provides detailed answers about procedures, helping your practice turn more leads into bookings.</p>
             </div>
 
             <div class="services-grid">
                 <div class="service-card">
                     <div class="icon">🛠️</div>
-                    <h3>Capture every lead.</h3>
-                    <p>Never miss a lead again—see every call, text, website chat, review, and third-party app message—all from a consolidated inbox.</p>
+                    <h3>Capture Every Lead.</h3>
+                    <p>Ensure no lead is lost—view every call, text, chat, review, and third-party message, all in one place with a unified inbox.</p>
                 </div>
                 <div class="service-card">
                     <div class="icon">🎨</div>
-                    <h3>Convert more leads.</h3>
-                    <p>Podium AI responds to leads in 1 minute to boost your chance of a sale by >45%. Help your customers immediately, accurately, and 24/7.</p>
+                    <h3>Convert More Leads.</h3>
+                    <p>Allyzent’s AI responds within a minute, increasing your chance of conversion by over 45%. Provide instant, accurate assistance 24/7 to your potential clients.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
                     <div class="icon">⚙️</div>
-                    <h3>Drive repeat business.</h3>
-                    <p>Let AI put in the work to drive repeat sales. Our AI Employee proactively follows up with customers at the right time to guide them to a sale.</p>
+                    <h3>Drive Repeat Business.</h3>
+                    <p>Let AI take the reins in nurturing repeat customers. Allyzent’s AI proactively follows up with clients at the ideal time, guiding them towards making another purchase.</p>
                 </div>
                 <div class="service-card">
                     <div class="icon">🚀</div>
-                    <h3>Get found. Get chosen.</h3>
-                    <p>More reviews = more business. Our AI requests reviews after each sale and responds to customers on review sites, helping you rank high on Google.</p>
+                    <h3>Get Noticed. Get Selected.</h3>
+                    <p>More reviews lead to more customers. Allyzent’s AI sends review requests after every sale and engages with customers on review platforms, boosting your visibility on Google.</p>
                 </div>
             </div>
         </div>
@@ -111,23 +108,23 @@ video.img-fluid {
     <section class="timeline-section">
         <div class="container">
             <div class="maindatahere  text-center">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">Expand your team exponentially with Podium's AI Employee</h2>
-                <!-- <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p> -->
+                <h5>Allyzent AI Solution</h5>
+                <h2 class="section-title">AI that Boosts Appointments for Exceptional Results</h2>
+                <!-- <p class="section-subtitle">Allyzent's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p> -->
             </div>
             <div class="timeline">
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Boosts your sales</h3>
-                        <p>Focused on customer satisfaction and driving sales, our AI Employee increases your bottom line by up to 30%.</p>
+                        <h3>Boost Appointments 3X</h3>
+                        <p>Our AI Patient Coordinator schedules services 24/7, increasing appointments while focusing on patient satisfaction.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Knows your industry</h3>
-                        <p>Pre-trained on 10+ years of industry expertise, our AI Employee boosts customer engagement rates by 24%.</p>
+                        <h3>Get Your AI Beauty Expert</h3>
+                        <p>Our AI, trained specifically for medical and aesthetic fields, efficiently handles detailed queries on treatments, offers, and more.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
@@ -143,27 +140,27 @@ video.img-fluid {
     <section class="testimonial-slider" style="padding-bottom: 130px;">
         <div class="container">
             <div class="maindatahere text-center">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">Over 100,000 businesses<br> trust Podium.</h2>
+                <h5>Allyzent's AI Solution</h5>
+                <h2 class="section-title">3,000+ wellness and aesthetics professionals rely on Allyzent.</h2>
             </div>
             <div class="slider-track" style="padding-top: 30px;">
                 <div class="testimonial-card">
-                    <p>“[Our AI Employee] is excellent. We were going to hire a customer service rep, but now we don't have to.”</p>
-                    <span>- Gannon Kennedy, Epione</span>
+                    <p>“Integrating an AI [Patient Coordinator] has significantly enhanced the way our team communicates, elevating the tone and quality of their responses.”</p>
+                    <span>- Abigail Fraher, Kate Somerville Skincare</span>
                 </div>
                 <div class="testimonial-card">
-                    <p>“Podium AI has 2x’d our lead response and lead closing rates.”</p>
-                    <span>- Ben Johnson, Stuart Powell Ford Mazda</span>
+                    <p>“24% boost in engagement rate with Allyzent's AI Assistant.”</p>
+                    <span>- Mia Gray, ZO Skin Centre</span>
                 </div>
             </div>
             <div class="slider-track" style="margin-top: 30px;">
                 <div class="testimonial-card">
-                    <p><strong>72%</strong> — “Podium’s AI has cut response time from 5 mins to 2 mins.”</p>
-                    <span>- Auto Companies using Podium</span>
+                    <p>“Our average first response time dropped from over 15 minutes to just 2 minutes.”</p>
+                    <span>- Trusted by Health & Wellness businesses.</span>
                 </div>
                 <div class="testimonial-card">
-                    <p>“The AI Employee can start/end the chat and book into ServiceTitan. It's doing almost all the work.”</p>
-                    <span>- Reed Borton, Premier Heating and Air</span>
+                    <p>“The AI is great at sealing the deal—conversational, approachable, and informative. Every message ends with, 'Can I help you get that booked?' ensuring that every opportunity is followed through, something not every human employee does consistently.”</p>
+                    <span>- Tarik Elmas, Tinytox Clinic</span>
                 </div>
             </div>
         </div>            

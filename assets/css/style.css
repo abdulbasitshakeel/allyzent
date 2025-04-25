@@ -641,7 +641,7 @@ body {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
   width: 300px;
   text-align: center;
-  height: 200px;
+  height: 100%;
 }
 .testimonial-slider {
   /* max-width: 1100px; */
@@ -875,6 +875,12 @@ body {
   }
 }
 
+.logofooter img{
+  padding-bottom: 25px;
+}
+.logofooter img {
+  width: 180px;
+}
 
 /* Responsive Adjustments */
 @media only screen and (max-width: 768px) {

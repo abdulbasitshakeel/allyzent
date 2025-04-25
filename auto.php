@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="hero-work-content autoherosection">
-                        <h1 class="hero-work-heading">AI-powered Sales for Dealerships</h1>
+                        <h1 class="hero-work-heading">Your AI BDC More leads, more sales</h1>
                         <p class="hero-work-description">
                         AI that handles test drive scheduling, service appointments, sends offers, and drives sales—around the clock, with complete business context.
                         </p>
@@ -82,32 +82,32 @@
         <div class="container">
             <div class="maindatahere">
                 <h5>Allyzent's AI Solution</h5>
-                <h2 class="section-title">Boost Business Performance with Allyzent AI</h2>
-                <p class="section-subtitle">Allyzent's AI is designed to engage more leads, schedule more appointments, and follow up for your business with minimal supervision.</p>
+                <h2 class="section-title">Smarter Selling, Faster Growth with Allyzent AI</h2>
+                <p class="section-subtitle">Drive more sales and leads with AI-driven services built for modern dealerships. From instant customer engagement to automated follow-ups, we make it easier to sell more cars with less effort.</p>
             </div>
 
             <div class="services-grid">
                 <div class="service-card">
                     <div class="icon">🛠️</div>
-                    <h3>Seize every Opportunity</h3>
-                    <p>Never lose a lead again—track every call, text, website chat, review, and third-party app message—all in one unified inbox.</p>
+                    <h3>AI-Powered Lead Response</h3>
+                    <p>Never miss a lead again. Our AI responds to inquiries instantly, 24/7 — even while your team is offline — ensuring no potential buyer is left waiting.</p>
                 </div>
                 <div class="service-card">
                     <div class="icon">🎨</div>
-                    <h3>Speed wins Deals</h3>
-                    <p>With Allyzent AI, your business replies to new leads in 60 seconds or less—helping you convert faster and more effectively, 24/7.</p>
+                    <h3>Automated Follow-Ups</h3>
+                    <p>Convert more leads with intelligent, personalized follow-ups. Our system nurtures prospects automatically, so your team can focus on closing, not chasing.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
                     <div class="icon">⚙️</div>
-                    <h3>Grow customer Loyalty</h3>
-                    <p>Allyzent AI keeps your brand top of mind, reaching out at just the right moment to bring customers back to buy again.</p>
+                    <h3>Smart Appointment Scheduling</h3>
+                    <p>Book test drives and consultations automatically. Our AI understands buyer intent and schedules appointments in real-time, boosting show-up rates.</p>
                 </div>
                 <div class="service-card">
                     <div class="icon">🚀</div>
-                    <h3>Be seen. Be preferred</h3>
-                    <p>Our AI gets more reviews for your business and manages your responses—helping you climb search results and win more customers.</p>
+                    <h3>Insights & Performance Tracking</h3>
+                    <p>Get real-time analytics on every conversation, lead, and sale. Make smarter decisions with clear, actionable insights all from one simple dashboard.</p>
                 </div>
             </div>
         </div>
@@ -115,30 +115,30 @@
     <section class="timeline-section">
         <div class="container">
             <div class="maindatahere  text-center">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">Expand your team exponentially with Podium's AI Employee</h2>
-                <!-- <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p> -->
+                <h5>Allyzent AI Solution</h5>
+                <h2 class="section-title">Supercharge Your Dealership with an AI Sales Assistant</h2>
+                <!-- <p class="section-subtitle">Allyzent's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p> -->
             </div>
             <div class="timeline">
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Boosts your sales</h3>
-                        <p>Focused on customer satisfaction and driving sales, our AI Employee increases your bottom line by up to 30%.</p>
+                        <h3>Sell More Cars</h3>
+                        <p>Our AI enhances customer satisfaction and boosts your appointment show rate by 25%, driving more sales.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Knows your industry</h3>
-                        <p>Pre-trained on 10+ years of industry expertise, our AI Employee boosts customer engagement rates by 24%.</p>
+                        <h3>Auto Expertise, Powered by AI</h3>
+                        <p>With 10+ years of auto industry knowledge and your inventory data, our AI BDC efficiently handles complex queries and updates your CRM in real-time.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Sets up quickly</h3>
-                        <p>Customized to your policies and services, our AI Employee is easy to set up, tailored to your needs by our experts and your guidance.</p>
+                        <h3>Simple, Tailored Setup</h3>
+                        <p>Our AI is fully customized to your dealership’s policies and services, ensuring an easy setup tailored to your needs by our experts.</p>
                     </div>
                 </div>
             </div>
@@ -147,27 +147,27 @@
     <section class="testimonial-slider" style="padding-bottom: 130px;">
         <div class="container">
             <div class="maindatahere text-center">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">Over 100,000 businesses<br> trust Podium.</h2>
+                <h5>Allyzent AI Solution</h5>
+                <h2 class="section-title">Over 6,000 Dealerships <br>Choose Allyzent.</h2>
             </div>
             <div class="slider-track" style="padding-top: 30px;">
                 <div class="testimonial-card">
-                    <p>“[Our AI Employee] is excellent. We were going to hire a customer service rep, but now we don't have to.”</p>
-                    <span>- Gannon Kennedy, Epione</span>
+                    <p>“It has truly saved us from needing to hire another person for our Service BDC, which would have cost us around $42,000 annually.”</p>
+                    <span>- John Doe, Operations Manager, Sunset Motors</span>
                 </div>
                 <div class="testimonial-card">
-                    <p>“Podium AI has 2x’d our lead response and lead closing rates.”</p>
-                    <span>- Ben Johnson, Stuart Powell Ford Mazda</span>
+                    <p>“The AI BDC from Allyzent helped us close 20 sales from 41 test drives scheduled over the past two weeks.”</p>
+                    <span>- Samantha Green, Sales Manager, Citywide Auto</span>
                 </div>
             </div>
             <div class="slider-track" style="margin-top: 30px;">
                 <div class="testimonial-card">
-                    <p><strong>72%</strong> — “Podium’s AI has cut response time from 5 mins to 2 mins.”</p>
-                    <span>- Auto Companies using Podium</span>
+                    <p>“We've doubled our lead response and closing rates thanks to this AI-powered system.”</p>
+                    <span>- Michael Adams, Digital Marketing Lead, Northern Motors</span>
                 </div>
                 <div class="testimonial-card">
-                    <p>“The AI Employee can start/end the chat and book into ServiceTitan. It's doing almost all the work.”</p>
-                    <span>- Reed Borton, Premier Heating and Air</span>
+                    <p>“Our AI Assistant speaks the way we do — casual, fun, and precise with detailed, relevant answers. It feels like a real conversation.”</p>
+                    <span>— Chris Walker, Head of Sales, Greenfield Autos</span>
                 </div>
             </div>
         </div>            

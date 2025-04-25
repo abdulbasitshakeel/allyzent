@@ -3,18 +3,22 @@
       <div class="footer-work">
           <div class="row gy-5 mb-2">
             <div class="col-md-4">
-              <h1>Podium</h1>
+                <div class="logofooter">
+                  <img src="assets/images/logo.png">
                   <p class="text-light-emphasis" style="max-width: 343px;">
                   At Allyzent, we design digital experiences that captivate and connect. Let’s create something extraordinary, together. Your vision, our innovation — perfectly aligned. Together, we turn ideas into impact.
                   </p>
+                </div>
             </div>
             <div class="col-md-4">
               <h5 class="text-white mb-3">Services</h5>
               <ul class="list-unstyled " style="font-size: 15px;">
-                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Web Design</a></li>
-                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Web Development</a></li>
-                <li><a href="#" class="text-white text-decoration-none d-block mb-2">E-Commerce Solutions</a></li>
-                <li><a href="#" class="text-white text-decoration-none d-block">Custom Software</a></li>
+                <li><a href="<?= $baseurl; ?>" class="text-white text-decoration-none d-block mb-2">Home</a></li>
+                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Auto</a></li>
+                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Aesthetics and Dental</a></li>
+                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Home Services</a></li>
+                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Retails</a></li>
+                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Law Firms</a></li>
               </ul>
             </div>
             <div class="col-md-4">
@@ -34,7 +38,7 @@
               <div class="row align-items-center">
                   <div class="col-md-12 text-center text-md-start mb-3 mb-md-0">
                       <div class="copyright">
-                          © Pavilion Corp Inc. 2025.
+                          © 2025 Allyzent Plus. All Rights Reserved.
                       </div>
                   </div>
               </div>

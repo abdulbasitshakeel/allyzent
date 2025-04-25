@@ -5,6 +5,7 @@
 }
 .autoherosection {
     text-align: left !important;
+    padding-top: 2rem;    
 }
 .autoherosection h1 {
     font-size: 74px;
@@ -34,10 +35,9 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="hero-work-content autoherosection">
-                        <h1 class="hero-work-heading">AI that converts leads and makes you money.</h1>
+                        <h1 class="hero-work-heading">AI Solutions for Law Firms</h1>
                         <p class="hero-work-description">
-                            AI that books test drives, service appointments, sends promotions, and makes sales—24/7, 
-                            with full context on your business.
+                        Allyzent’s AI simplifies client interactions, automates tasks, and boosts efficiency, letting your law firm focus on delivering expert legal services while enhancing client satisfaction.
                         </p>
                         <div class="hero-work-divider"></div>
                         <a href="/" class="hero-work-btn">
@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="showimagenew">
-                        <img src="assets/images/cars.jpg">
+                        <img src="assets/images/law.jpg">
                     </div>
                 </div>
             </div>
@@ -82,64 +82,63 @@
     <section class="services-section">
         <div class="container">
             <div class="maindatahere">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">What Podium AI can do for you</h2>
-                <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p>
+                <h5>Allyzent's AI Solution</h5>
+                <h2 class="section-title">What Allyzent AI Can Do for Your <br>Law Firm</h2>
+                <p class="section-subtitle">Allyzent's AI is designed to handle client inquiries, schedule consultations, and follow up on cases, allowing your law firm to operate more efficiently with minimal supervision.</p>
             </div>
 
             <div class="services-grid">
                 <div class="service-card">
-                    <div class="icon">🛠️</div>
-                    <h3>Capture every lead.</h3>
-                    <p>Never miss a lead again—see every call, text, website chat, review, and third-party app message—all from a consolidated inbox.</p>
+                    <div class="icon">📞</div>
+                    <h3>Never miss a client inquiry.</h3>
+                    <p>Capture every client lead—calls, emails, chats, and reviews—all organized in one place for your convenience.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🎨</div>
-                    <h3>Convert more leads.</h3>
-                    <p>Podium AI responds to leads in 1 minute to boost your chance of a sale by >45%. Help your customers immediately, accurately, and 24/7.</p>
+                    <div class="icon">⏱️</div>
+                    <h3>Respond instantly.</h3>
+                    <p>Allyzent AI engages with clients immediately, ensuring timely responses to inquiries and improving your chances of winning more cases by over 45%.</p>
                 </div>
             </div>
             <div class="services-grid" style="margin-top: 25px;">
                 <div class="service-card">
-                    <div class="icon">⚙️</div>
-                    <h3>Drive repeat business.</h3>
-                    <p>Let AI put in the work to drive repeat sales. Our AI Employee proactively follows up with customers at the right time to guide them to a sale.</p>
+                    <div class="icon">🔄</div>
+                    <h3>Enhance client retention.</h3>
+                    <p>Let AI handle follow-ups and re-engage past clients, ensuring no opportunity for repeat business is missed.</p>
                 </div>
                 <div class="service-card">
-                    <div class="icon">🚀</div>
-                    <h3>Get found. Get chosen.</h3>
-                    <p>More reviews = more business. Our AI requests reviews after each sale and responds to customers on review sites, helping you rank high on Google.</p>
+                    <div class="icon">🌟</div>
+                    <h3>Boost your reputation.</h3>
+                    <p>Generate more positive reviews with AI-driven requests after each case, helping your law firm stand out and rank higher on search engines.</p>
                 </div>
             </div>
         </div>
     </section>
     <section class="timeline-section">
         <div class="container">
-            <div class="maindatahere  text-center">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">Expand your team exponentially with Podium's AI Employee</h2>
-                <!-- <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p> -->
+            <div class="maindatahere text-center">
+                <h5>Allyzent's AI for Law Firms</h5>
+                <h2 class="section-title">Empower your legal team with Allyzent's AI Assistant</h2>
             </div>
             <div class="timeline">
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Boosts your sales</h3>
-                        <p>Focused on customer satisfaction and driving sales, our AI Employee increases your bottom line by up to 30%.</p>
+                        <h3>Streamline Client Interaction</h3>
+                        <p>Our AI Assistant provides instant responses to client inquiries, reducing response times and ensuring timely communication, which helps increase client satisfaction and retention.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Knows your industry</h3>
-                        <p>Pre-trained on 10+ years of industry expertise, our AI Employee boosts customer engagement rates by 24%.</p>
+                        <h3>Pre-trained Legal Expertise</h3>
+                        <p>Our AI is pre-trained on legal industry knowledge, providing accurate information and guidance, and assisting clients effectively, improving engagement rates by over 20%.</p>
                     </div>
                 </div>
                 <div class="timeline-item">
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3>Sets up quickly</h3>
-                        <p>Customized to your policies and services, our AI Employee is easy to set up, tailored to your needs by our experts and your guidance.</p>
+                        <h3>Easy to Integrate</h3>
+                        <p>Allyzent’s AI is customizable to your firm’s needs. It integrates quickly with your systems and policies, ensuring smooth adoption with minimal disruption.</p>
                     </div>
                 </div>
             </div>
@@ -148,27 +147,27 @@
     <section class="testimonial-slider" style="padding-bottom: 130px;">
         <div class="container">
             <div class="maindatahere text-center">
-                <h5>Podium's AI Solution</h5>
-                <h2 class="section-title">Over 100,000 businesses<br> trust Podium.</h2>
+                <h5>Allyzent's AI for Law Firms</h5>
+                <h2 class="section-title">Trusted by leading law firms<br> across the industry</h2>
             </div>
             <div class="slider-track" style="padding-top: 30px;">
                 <div class="testimonial-card">
-                    <p>“[Our AI Employee] is excellent. We were going to hire a customer service rep, but now we don't have to.”</p>
-                    <span>- Gannon Kennedy, Epione</span>
+                    <p>“Allyzent’s AI has revolutionized how we manage client interactions. We’ve saved countless hours and gained more efficient communication with clients.”</p>
+                    <span>- Sarah Thompson, Thompson & Co. Law Firm</span>
                 </div>
                 <div class="testimonial-card">
-                    <p>“Podium AI has 2x’d our lead response and lead closing rates.”</p>
-                    <span>- Ben Johnson, Stuart Powell Ford Mazda</span>
+                    <p>“Since integrating Allyzent’s AI, we’ve seen a 50% increase in client satisfaction and a reduction in response times by more than half.”</p>
+                    <span>- Michael Davis, Davis & Partners Legal</span>
                 </div>
             </div>
             <div class="slider-track" style="margin-top: 30px;">
                 <div class="testimonial-card">
-                    <p><strong>72%</strong> — “Podium’s AI has cut response time from 5 mins to 2 mins.”</p>
-                    <span>- Auto Companies using Podium</span> 
+                    <p><strong>80%</strong> — “Allyzent’s AI cut our administrative workload by 80%, allowing us to focus more on high-value legal tasks.”</p>
+                    <span>- Law Firms using Allyzent AI</span>
                 </div>
                 <div class="testimonial-card">
-                    <p>“The AI Employee can start/end the chat and book into ServiceTitan. It's doing almost all the work.”</p>
-                    <span>- Reed Borton, Premier Heating and Air</span>
+                    <p>“The AI Assistant efficiently handles client queries and appointments, allowing us to close cases faster and manage workloads better.”</p>
+                    <span>- Jennifer Martin, Martin & Associates</span>
                 </div>
             </div>
         </div>            

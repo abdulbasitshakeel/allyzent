@@ -76,7 +76,7 @@
             <div class="maindatahere  text-center">
                 <h5>Allyzent's AI Solution</h5>
                 <h2 class="section-title">Increase your team’s capacity with Allyzent’s AI-driven workforce.</h2>
-                <!-- <p class="section-subtitle">Podium's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p> -->
+                <!-- <p class="section-subtitle">Allyzent's AI is built to talk to more leads, set more appointments, and follow up for your business with little oversight.</p> -->
             </div>
             <div class="timeline">
                 <div class="timeline-item">
@@ -107,26 +107,26 @@
         <div class="container">
             <div class="maindatahere text-center">
                 <h5>Allyzent's AI Solution</h5>
-                <h2 class="section-title">More than 100,000 companies <br> rely on Allyzent.</h2>
+                <h2 class="section-title">Allyzent is the choice of<br> leading brands</h2>
             </div>
             <div class="slider-track" style="padding-top: 30px;">
                 <div class="testimonial-card">
                     <p>The AI Assistant has been incredible. We planned to bring on a support rep, but it’s no longer necessary.</p>
-                    <span>Gannon Kennedy, Epione</span>
+                    <span>Everstone Solutions</span>
                 </div>
                 <div class="testimonial-card">
                     <p>Allyzent AI has doubled how fast we respond to leads and how many we close.</p>
-                    <span>Ben Johnson, Stuart Powell Ford Mazda</span>
+                    <span>BrightNest Media</span>
                 </div>
             </div>
             <div class="slider-track" style="margin-top: 30px;">
                 <div class="testimonial-card">
                     <p><strong>72%</strong> — Allyzent’s AI reduced our reply time from 5 minutes to just 2.</p>
-                    <span>Auto Companies using Podium</span>
+                    <span>NovaEdge Technologies</span>
                 </div>
                 <div class="testimonial-card">
                     <p>The AI Assistant handles conversations from start to finish and schedules directly in ServiceTitan. It’s managing nearly everything.</p>
-                    <span>Reed Borton, Premier Heating and Air</span>
+                    <span>GreenCore Digital</span>
                 </div>
             </div>
         </div>            
