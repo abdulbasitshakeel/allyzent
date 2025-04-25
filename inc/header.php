@@ -14,12 +14,17 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+<div class="loader-wrapper">
+  <div class="loader"></div>
+</div>
 <div class="wrapper">
     <div class="header clearfix">
         <nav class="navbar">
             <div class="container-fluid">
                 <div class="logo">
-                    <img src="assets/images/logo.png">
+                    <a href="<?= $BaseUrl; ?>">
+                        <img src="assets/images/logo.png">
+                    </a>
                     <!-- <span>Podium</span>
                     <div class="logo-highlight"></div> -->
                 </div>
@@ -33,8 +38,8 @@
                 </div>
                 <div class="nav-right">
                     <div class="phone-number">
-                        <i class="bi bi-telephone-fill phone-icon"></i>
-                        <span>1-801-438-4425</span>
+                        <!-- <i class="bi bi-telephone-fill phone-icon"></i>
+                        <span>1-801-438-4425</span> -->
                     </div>
                     <a href="#" class="demo-btn">
                         Get a demo

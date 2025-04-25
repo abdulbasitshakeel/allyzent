@@ -13,12 +13,12 @@
             <div class="col-md-4">
               <h5 class="text-white mb-3">Services</h5>
               <ul class="list-unstyled " style="font-size: 15px;">
-                <li><a href="<?= $baseurl; ?>" class="text-white text-decoration-none d-block mb-2">Home</a></li>
-                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Auto</a></li>
-                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Aesthetics and Dental</a></li>
-                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Home Services</a></li>
-                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Retails</a></li>
-                <li><a href="#" class="text-white text-decoration-none d-block mb-2">Law Firms</a></li>
+                <li><a href="<?= $BaseUrl; ?>" class="text-white text-decoration-none d-block mb-2">Home</a></li>
+                <li><a href="<?= $BaseUrl; ?>auto.php" class="text-white text-decoration-none d-block mb-2">Auto</a></li>
+                <li><a href="<?= $BaseUrl; ?>aesthetics.php" class="text-white text-decoration-none d-block mb-2">Aesthetics and Dental</a></li>
+                <li><a href="<?= $BaseUrl; ?>homeservices.php" class="text-white text-decoration-none d-block mb-2">Home Services</a></li>
+                <li><a href="<?= $BaseUrl; ?>retail.php" class="text-white text-decoration-none d-block mb-2">Retails</a></li>
+                <li><a href="<?= $BaseUrl; ?>lawfirm.php" class="text-white text-decoration-none d-block mb-2">Law Firms</a></li>
               </ul>
             </div>
             <div class="col-md-4">
@@ -60,6 +60,11 @@
   }, { threshold: 0.1 });
 
   timelineItems.forEach(item => observer.observe(item));
+</script>
+<script>
+window.addEventListener("load", function () {
+  document.querySelector(".loader-wrapper").style.display = "none";
+});
 </script>
 </body>
 </html>
