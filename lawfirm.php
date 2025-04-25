@@ -164,7 +164,7 @@
             <div class="slider-track" style="margin-top: 30px;">
                 <div class="testimonial-card">
                     <p><strong>72%</strong> — “Podium’s AI has cut response time from 5 mins to 2 mins.”</p>
-                    <span>- Auto Companies using Podium</span>
+                    <span>- Auto Companies using Podium</span> 
                 </div>
                 <div class="testimonial-card">
                     <p>“The AI Employee can start/end the chat and book into ServiceTitan. It's doing almost all the work.”</p>
