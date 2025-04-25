@@ -55,14 +55,12 @@
         <!-- Mobile Menu -->
         <div class="mobile-menu clearfix" id="mobileMenu">
             <div class="mobile-menu-content">
-                <a href="" class="mobile-link">Home</a>
-                <a href="#" class="mobile-link">Aesthetics & Wellness</a>
-                <a href="#" class="mobile-link">Home Services</a>
-                <a href="#" class="mobile-link">Retail</a>
-                <a href="#" class="mobile-link">Law Firms</a>
-                <a href="#" class="mobile-link phone-link">
-                    1-801-438-4425
-                </a>
+                <a href="<?= $BaseUrl; ?>" class="mobile-link">Home</a>
+                <a href="<?= $BaseUrl; ?>auto.php" class="mobile-link">Auto</a>
+                <a href="<?= $BaseUrl; ?>aesthetics.php" class="mobile-link">Aesthetics & Dental</a>
+                <a href="<?= $BaseUrl; ?>homeservices.php" class="mobile-link">Home Services</a>
+                <a href="<?= $BaseUrl; ?>retail.php" class="mobile-link">Retail</a>
+                <a href="<?= $BaseUrl; ?>lawfirm.php" class="mobile-link">Law Firms</a>
                 <a href="#" class="demo-link">
                     Get a demo
                     <i class="bi bi-arrow-right"></i>
