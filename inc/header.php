@@ -25,16 +25,14 @@
                     <a href="<?= $BaseUrl; ?>">
                         <img src="assets/images/logo.png">
                     </a>
-                    <!-- <span>Podium</span>
-                    <div class="logo-highlight"></div> -->
                 </div>
                 <div class="nav-links">
-                    <a href="<?= $BaseUrl; ?>" class="nav-link active">Home</a>
-                    <a href="<?= $BaseUrl; ?>auto.php" class="nav-link">Auto</a>
-                    <a href="<?= $BaseUrl; ?>aesthetics.php" class="nav-link">Aesthetics and Dental</a>
-                    <a href="<?= $BaseUrl; ?>homeservices.php" class="nav-link">Home Services</a>
-                    <a href="<?= $BaseUrl; ?>retail.php" class="nav-link">Retail</a>
-                    <a href="<?= $BaseUrl; ?>lawfirm.php" class="nav-link">law Firm</a>
+                    <a href="<?= $BaseUrl; ?>" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'index.php' ? 'active' : '' ?>">Home</a>
+                    <a href="<?= $BaseUrl; ?>auto.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'auto.php' ? 'active' : '' ?>">Auto</a>
+                    <a href="<?= $BaseUrl; ?>aesthetics.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'aesthetics.php' ? 'active' : '' ?>">Aesthetics and Dental</a>
+                    <a href="<?= $BaseUrl; ?>homeservices.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'homeservices.php' ? 'active' : '' ?>">Home Services</a>
+                    <a href="<?= $BaseUrl; ?>retail.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'retail.php' ? 'active' : '' ?>">Retail</a>
+                    <a href="<?= $BaseUrl; ?>lawfirm.php" class="nav-link <?= basename($_SERVER['PHP_SELF']) == 'lawfirm.php' ? 'active' : '' ?>">Law Firm</a>
                 </div>
                 <div class="nav-right">
                     <div class="phone-number">

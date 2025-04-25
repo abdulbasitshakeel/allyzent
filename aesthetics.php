@@ -32,8 +32,6 @@ video.img-fluid {
     filter: brightness(60%) contrast(110%);
     border-radius: 16px;
 }
-
-
 </style>
 <div class="content">
     <section class="hero-work autonewsection">
@@ -47,6 +45,15 @@ video.img-fluid {
                         <div class="image-overlay-text">
                             <h2>AI That Books Your Next Appointment Instantly</h2>
                             <p>Meet your AI Patient Coordinator: Working 24/7 to schedule appointments, answer queries, and provide exceptional customer service—all while boosting your sales.</p>
+                            <div class="hero-work-divider"></div>
+                                <a href="#" class="hero-work-btn">
+                                    Watch a demo
+                                    <!-- <i class="bi bi-arrow-right"></i> -->
+                                    <svg class="hero-work-btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                                    </svg>
+                                </a>
+                            </div>                        
                         </div>
                     </div>
                 </div>

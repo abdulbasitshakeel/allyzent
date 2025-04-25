@@ -1,20 +1,22 @@
 <?php include("inc/header.php"); ?>
 <div class="content">
     <section class="hero-work">
-        <div class="container">
-            <div class="hero-work-content">
-                <h1 class="hero-work-heading">AI that Drives Growth and Boosts Revenue</h1>
-                <p class="hero-work-description">
-                Ai that organizes test drives, service bookings, sends promotions, and increases sales around the clock, fully synced with your business.
-                </p>
-                <div class="hero-work-divider"></div>
-                    <a href="#" class="hero-work-btn">
-                        Watch a demo
-                        <!-- <i class="bi bi-arrow-right"></i> -->
-                        <svg class="hero-work-btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </a>
+        <div class="row fadeInUpp">
+            <div class="container">
+                <div class="hero-work-content">
+                    <h1 class="hero-work-heading">AI that Drives Growth and Boosts Revenue</h1>
+                    <p class="hero-work-description">
+                    Ai that organizes test drives, service bookings, sends promotions, and increases sales around the clock, fully synced with your business.
+                    </p>
+                    <div class="hero-work-divider"></div>
+                        <a href="#" class="hero-work-btn">
+                            Watch a demo
+                            <!-- <i class="bi bi-arrow-right"></i> -->
+                            <svg class="hero-work-btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>

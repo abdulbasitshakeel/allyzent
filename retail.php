@@ -33,12 +33,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="hero-work-content autoherosection">
+                    <div class="hero-work-content autoherosection fadeInLeft">
                         <h1 class="hero-work-heading">AI that drives more foot traffic to your business.</h1>
                         <p class="hero-work-description">AI Sales Consultant provides instant answers, including inventory details, and boosts foot traffic to your store.</p>
                         <div class="hero-work-divider"></div>
                         <a href="/" class="hero-work-btn">
-                            <span class="text">Get a demo</span>
+                            <span class="text">Watch a demo</span>
                             <svg class="hero-work-btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
                             </svg>
@@ -51,7 +51,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="showimagenew">
+                    <div class="showimagenew fadeInRight">
                         <img src="assets/images/retail.jpg">
                     </div>
                 </div>

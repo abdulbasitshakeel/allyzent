@@ -33,7 +33,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="hero-work-content autoherosection">
+                    <div class="hero-work-content autoherosection fadeInLeft">
                         <h1 class="hero-work-heading">Your AI BDC More leads, more sales</h1>
                         <p class="hero-work-description">
                         AI that handles test drive scheduling, service appointments, sends offers, and drives sales—around the clock, with complete business context.
@@ -53,7 +53,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="showimagenew">
+                    <div class="showimagenew fadeInRight">
                         <img src="assets/images/cars.jpg">
                     </div>
                 </div>
@@ -80,7 +80,7 @@
     </section>
     <section class="services-section">
         <div class="container">
-            <div class="maindatahere">
+            <div class="maindatahere fadein">
                 <h5>Allyzent's AI Solution</h5>
                 <h2 class="section-title">Smarter Selling, Faster Growth with Allyzent AI</h2>
                 <p class="section-subtitle">Drive more sales and leads with AI-driven services built for modern dealerships. From instant customer engagement to automated follow-ups, we make it easier to sell more cars with less effort.</p>
