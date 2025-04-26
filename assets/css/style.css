@@ -862,6 +862,15 @@ body {
   padding-bottom: 5rem;
   font-family: "Poppins", sans-serif;
 }
+
+.termsandcondition-box {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  padding: 40px 30px;
+}
+
 .termsandcondition-title {
   font-size: 45px;
   font-weight: 700;
@@ -909,12 +918,20 @@ color: #555;
 margin-bottom: 5px;
 }
 
-
 .privacyandpolicy {
   padding-top: 10rem;
   padding-bottom: 5rem;
   font-family: "Poppins", sans-serif;
 }
+
+.privacyandpolicy-box {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  padding: 40px 30px;
+}
+
 .privacyandpolicy-title {
   font-size: 45px;
   font-weight: 700;
