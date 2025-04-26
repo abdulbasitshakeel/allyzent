@@ -124,7 +124,7 @@ body {
 /* Navigation Links */
 .nav-links {
   display: flex;
-  gap: 40px;
+  gap: 22px;
 }
 
 .nav-link {
@@ -531,7 +531,6 @@ body {
   transform: translateX(5px);
 }
 
-
 .services-section {
   /* background: #f9f9f9; */
   padding: 80px 0;
@@ -687,13 +686,13 @@ body {
   text-align: center;
   height: 100%;
 }
-.testimonial-slider {
-  /* max-width: 1100px; */
-  /* margin: 100px auto; */
+/* .testimonial-slider {
+  max-width: 1100px;
+  margin: 100px auto;
   padding: 80px 0;
-  /* font-family: 'Segoe UI', sans-serif; */
+  font-family: 'Segoe UI', sans-serif;
   text-align: center;
-}
+} */
 /* 
 .testimonial-slider h2 {
   font-size: 32px;
@@ -701,7 +700,7 @@ body {
   color: #111;
 } */
 
-.slider-wrapper {
+/* .slider-wrapper {
   position: relative;
   overflow: hidden;
 }
@@ -737,7 +736,7 @@ body {
   margin-bottom: 35px;
   font-style: italic;
   position: relative;
-}
+} */
 
 /* .testimonial-card p::before,
 .testimonial-card p::after {
@@ -757,7 +756,7 @@ body {
   right: -10px;
 } */
 
-.testimonial-slider {
+/* .testimonial-slider {
   position: relative;
 }
 .testimonial-slider::before {
@@ -794,11 +793,126 @@ body {
   color: #0000009f;
   text-align: right;
   font-family: "Poppins", sans-serif;
+} */
+.resident-section {
+  padding: 80px 0;
+}
+
+.resident-work {
+  font-family: "Poppins", sans-serif;
+  max-width: 580px;
+  padding: 20px;
+}
+
+.section-heading {
+  font-size: 45px;
+  font-weight: 700;
+  color: #1d3557;
+}
+
+.lead {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.7;
+}
+
+.stat-highlight {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #02723f;
+  margin-top: 10px;
+}
+
+.highlight-text {
+  font-size: 1rem;
+  color: #6c757d;
+}
+
+.learn-more-link {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #02723f;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.learn-more-link:hover {
+  text-decoration: underline;
+  color: #055531;
+}
+
+.resident-video video {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.4s ease;
+  object-fit: cover;
+  height: 56vh;
+}
+@media (max-width: 767px) {
+  .resident-work {
+      text-align: center;
+      padding: 10px;
+  }
+
+  .section-heading {
+      font-size: 45px;
+  }
+
+  .stat-highlight {
+      font-size: 2.8rem;
+  }
+}
+
+.future-property{
+  padding: 145px 0;
+  background-color: #ebedf1;
+}
+
+.future-sale h3{
+  font-size: 3rem;
+  font-weight: 450;
+  line-height: 1.1;
+  margin-bottom: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.future-work-btn{
+  font-size: 1.1rem;
+  padding: 12px 30px;
+  border-radius: 12px;
+  background-color: #02723f;
+  color: white;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.future-work-btn:hover{
+  color: rgb(241, 241, 241);
 }
 
 .ceo-section {
   padding-top: 130px;
   padding-bottom: 180px;
+  position: relative;
+}
+.ceo-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(2, 114, 63, 0.2) 0%, rgba(2, 114, 63, 0) 70%);
+  transform: translate(-30%, -30%);
+  z-index: -1;
+  border-radius: 50%;
+  filter: blur(60px);
+  pointer-events: none;
 }
 .ceo-card {
   background: white;
