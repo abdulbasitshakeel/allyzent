@@ -858,8 +858,8 @@ body {
 
 
 .termsandcondition {
-  padding-top: 130px;
-  padding-bottom: 80px;
+  padding-top: 10rem;
+  padding-bottom: 5rem;
   font-family: "Poppins", sans-serif;
 }
 .termsandcondition-title {
@@ -911,8 +911,8 @@ margin-bottom: 5px;
 
 
 .privacyandpolicy {
-  padding-top: 130px;
-  padding-bottom: 80px;
+  padding-top: 10rem;
+  padding-bottom: 5rem;
   font-family: "Poppins", sans-serif;
 }
 .privacyandpolicy-title {
