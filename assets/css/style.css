@@ -854,6 +854,116 @@ body {
   width: 100%;
 }
 
+/* terms and condition and privacy and policy */
+
+
+.termsandcondition {
+  padding-top: 130px;
+  padding-bottom: 80px;
+  font-family: "Poppins", sans-serif;
+}
+.termsandcondition-title {
+  font-size: 45px;
+  font-weight: 700;
+  color: #1c1d18;
+  margin-bottom: 10px;
+}
+
+.termsandcondition-updated {
+font-size: 16px;
+margin-bottom: 30px;
+color: #666;
+}
+
+.termsandcondition-list {
+list-style: none;
+padding: 0;
+}
+
+.termsandcondition-list > li {
+margin-bottom: 30px;
+}
+
+.termsandcondition-heading {
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 10px;
+color: #222;
+}
+
+.termsandcondition-list p {
+font-size: 16px;
+line-height: 1.6;
+color: #555;
+}
+
+.termsandcondition-sublist {
+list-style-type: disc;
+padding-left: 40px;
+margin-top: 10px;
+}
+
+.termsandcondition-sublist li {
+font-size: 16px;
+color: #555;
+margin-bottom: 5px;
+}
+
+
+.privacyandpolicy {
+  padding-top: 130px;
+  padding-bottom: 80px;
+  font-family: "Poppins", sans-serif;
+}
+.privacyandpolicy-title {
+  font-size: 45px;
+  font-weight: 700;
+  color: #1c1d18;
+  margin-bottom: 10px;
+}
+
+.privacyandpolicy-updated {
+font-size: 16px;
+margin-bottom: 30px;
+color: #666;
+}
+
+.privacyandpolicy-list {
+list-style: none;
+padding: 0;
+}
+
+.privacyandpolicy-list > li {
+margin-bottom: 30px;
+}
+
+.privacyandpolicy-heading {
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 10px;
+color: #222;
+}
+
+.privacyandpolicy-list p {
+font-size: 16px;
+line-height: 1.6;
+color: #555;
+}
+
+.privacyandpolicy-sublist {
+list-style-type: disc;
+padding-left: 40px;
+margin-top: 10px;
+}
+
+.privacyandpolicy-sublist li {
+font-size: 16px;
+color: #555;
+margin-bottom: 5px;
+}
+
+
+
 /* footer */
 .footer-work{
   padding-top: 70px;
@@ -870,7 +980,6 @@ body {
 
 .copyright {
   color: rgb(232 232 232);
-  text-align: center;
 }
 
 
