@@ -798,6 +798,65 @@ body {
   text-align: right;
   font-family: "Poppins", sans-serif;
 } */
+
+/* ////communication work//// */
+
+.communication-card {
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.communication-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.communication-image {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  background: #f9f9f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.communication-image-fluid {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-bottom: 1px solid #eee;
+}
+
+.communication-content {
+  padding: 20px;
+  text-align: center;
+}
+
+.communication-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #333;
+}
+
+.communication-description {
+  font-size: 16px;
+  color: #666;
+  margin-top: 10px;
+}
+
+
+/* ////communication work//// */
+
+
+
+
 .resident-section {
   padding: 80px 0;
 }
